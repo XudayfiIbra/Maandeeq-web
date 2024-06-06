@@ -142,7 +142,7 @@ MEDIA_ROOT = ''
 CORS_ALLOWED_ORIGINS = [
     'http://localhost:5173',
     'http://127.0.0.1:43355',
-    'https://web-production-6aa6.up.railway.app'
+    'web-production-6aa6.up.railway.app'
 ]
 # CORS_ALLOW_ALL_ORIGINS = True
 
